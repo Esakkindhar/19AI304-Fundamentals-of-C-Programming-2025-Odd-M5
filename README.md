@@ -101,7 +101,7 @@ int main()
 ### Step 5:
   Prompt the user to enter a positive integer `n`.  
 ### Step 6:
-  Read the value of `n`.  
+  Read the value of `n`. 
 ### Step 7:
   Display a message indicating that the Fibonacci series of `n` terms will be printed.  
 ### Step 8:
